@@ -1,4 +1,4 @@
-# Created by ME Suvhankar Dutta
+Created by ME Suvhankar Dutta
 Component	Details
 Webcam Input	cv2.VideoCapture(0) starts webcam stream
 Hand Detection	mediapipe.solutions.hands detects hand landmarks (21 per hand)
